@@ -1,20 +1,19 @@
-[{
-  "name": "MilkyUpizise",
-  "icon": "https://dev-milkyupizise.pantheonsite.io/wp-content/uploads/2023/05/89ad2bca-4ed7-11ec-9898-ac162db679ce-64x64.png",
-  "type": "app",
-  "data": {
-    "type": "IFrame",
-    "url": "https://dev-milkyupizise.pantheonsite.io",
-    "gallery": [
-      
-      "https://dev-milkyupizise.pantheonsite.io/wp-content/uploads/2023/05/89ad2bca-4ed7-11ec-9898-ac162db679ce-64x64.png"
-    ],
-    "desc": "This is milkyupizise app", 
-    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", 
-    "invert": false 
-  }
-}
-	{
+[
+  {
+     "name": "MilkyUpizise",
+		"icon": "https://dev-milkyupizise.pantheonsite.io/wp-content/uploads/2023/05/89ad2bca-4ed7-11ec-9898-ac162db679ce-64x64.png",
+		"type": "app",
+		"data": {
+			"type": "IFrame",
+			"url": "https://dev-milkyupizise.pantheonsite.io/",
+			"invert": false,
+			"gallery": [
+				"https://dev-milkyupizise.pantheonsite.io/wp-content/uploads/2023/05/89ad2bca-4ed7-11ec-9898-ac162db679ce-64x64.png",
+			],
+			"desc": "A privacy based social app",
+			"feat": "watch videos,play,earn"
+		}
+	},{
 		"name": "LTunes",
 		"icon": "https://ltunes.gq/assets/Logo.png",
 		"type": "app",
