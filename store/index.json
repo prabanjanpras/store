@@ -1,17 +1,17 @@
 [{
-  "name": "MilkyUpizise", // unique name (check if it has been used already in the file)
-  "icon": "https://dev-milkyupizise.pantheonsite.io/wp-content/uploads/2023/05/89ad2bca-4ed7-11ec-9898-ac162db679ce-64x64.png", // logo image, preferrably 1:1 and less than 128px of width
-  "type": "app", // game or app
+  "name": "MilkyUpizise",l
+  "icon": "https://dev-milkyupizise.pantheonsite.io/wp-content/uploads/2023/05/89ad2bca-4ed7-11ec-9898-ac162db679ce-64x64.png",
+  "type": "app",
   "data": {
-    "type": "IFrame", // type currently supports IFrame only
-    "url": "https://dev-milkyupizise.pantheonsite.io", // url of the app and make sure they accept Iframe
+    "type": "IFrame",
+    "url": "https://dev-milkyupizise.pantheonsite.io",
     "gallery": [
-      // three or more images for gallery view in store app
+      
       "https://dev-milkyupizise.pantheonsite.io/wp-content/uploads/2023/05/89ad2bca-4ed7-11ec-9898-ac162db679ce-64x64.png"
     ],
-    "desc": "This is milkyupizise app", // description for store app
-    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", // features for store app
-    "invert": false // when true it forces dark theme for game/app window, default is false.
+    "desc": "This is milkyupizise app", 
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", 
+    "invert": false 
   }
 }
 	{
